@@ -4,6 +4,8 @@
 
 ![overbrace-look-strange](strange-look-overbrace.png)
 
+[github-pages-link](https://husisy.github.io/demo-jupyterobok-mathjax-issue/)
+
 ```bash
 OS: win10
 python: 3.9.7 (conda)
